@@ -1,0 +1,11 @@
+D:\Study\Repos\Students Grades\bin\Debug\Students Grades.exe.config
+D:\Study\Repos\Students Grades\bin\Debug\Students Grades.exe
+D:\Study\Repos\Students Grades\bin\Debug\Students Grades.pdb
+D:\Study\Repos\Students Grades\obj\Debug\Students Grades.csproj.AssemblyReference.cache
+D:\Study\Repos\Students Grades\obj\Debug\Students Grades.csproj.SuggestedBindingRedirects.cache
+D:\Study\Repos\Students Grades\obj\Debug\Students_Grades.Form1.resources
+D:\Study\Repos\Students Grades\obj\Debug\Students_Grades.Properties.Resources.resources
+D:\Study\Repos\Students Grades\obj\Debug\Students Grades.csproj.GenerateResource.cache
+D:\Study\Repos\Students Grades\obj\Debug\Students Grades.csproj.CoreCompileInputs.cache
+D:\Study\Repos\Students Grades\obj\Debug\Students Grades.exe
+D:\Study\Repos\Students Grades\obj\Debug\Students Grades.pdb

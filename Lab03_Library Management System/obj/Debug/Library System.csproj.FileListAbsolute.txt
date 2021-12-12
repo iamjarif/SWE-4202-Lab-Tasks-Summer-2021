@@ -1,0 +1,11 @@
+D:\Study\Library System\Library System\bin\Debug\Library System.exe.config
+D:\Study\Library System\Library System\bin\Debug\Library System.exe
+D:\Study\Library System\Library System\bin\Debug\Library System.pdb
+D:\Study\Library System\Library System\obj\Debug\Library System.csproj.AssemblyReference.cache
+D:\Study\Library System\Library System\obj\Debug\Library System.csproj.SuggestedBindingRedirects.cache
+D:\Study\Library System\Library System\obj\Debug\Library_System.Form1.resources
+D:\Study\Library System\Library System\obj\Debug\Library_System.Properties.Resources.resources
+D:\Study\Library System\Library System\obj\Debug\Library System.csproj.GenerateResource.cache
+D:\Study\Library System\Library System\obj\Debug\Library System.csproj.CoreCompileInputs.cache
+D:\Study\Library System\Library System\obj\Debug\Library System.exe
+D:\Study\Library System\Library System\obj\Debug\Library System.pdb
