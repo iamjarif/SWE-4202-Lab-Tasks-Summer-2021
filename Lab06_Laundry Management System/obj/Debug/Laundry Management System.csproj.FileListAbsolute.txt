@@ -1,0 +1,11 @@
+C:\Users\kazij\Downloads\Laundry Management System\bin\Debug\Laundry.exe.config
+C:\Users\kazij\Downloads\Laundry Management System\bin\Debug\Laundry.exe
+C:\Users\kazij\Downloads\Laundry Management System\bin\Debug\Laundry.pdb
+C:\Users\kazij\Downloads\Laundry Management System\obj\Debug\Laundry Management System.csproj.AssemblyReference.cache
+C:\Users\kazij\Downloads\Laundry Management System\obj\Debug\Laundry Management System.csproj.SuggestedBindingRedirects.cache
+C:\Users\kazij\Downloads\Laundry Management System\obj\Debug\Laundry.Form1.resources
+C:\Users\kazij\Downloads\Laundry Management System\obj\Debug\Laundry.Properties.Resources.resources
+C:\Users\kazij\Downloads\Laundry Management System\obj\Debug\Laundry Management System.csproj.GenerateResource.cache
+C:\Users\kazij\Downloads\Laundry Management System\obj\Debug\Laundry Management System.csproj.CoreCompileInputs.cache
+C:\Users\kazij\Downloads\Laundry Management System\obj\Debug\Laundry.exe
+C:\Users\kazij\Downloads\Laundry Management System\obj\Debug\Laundry.pdb
