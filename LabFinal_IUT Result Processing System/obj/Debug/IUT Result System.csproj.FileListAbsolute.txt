@@ -1,0 +1,11 @@
+D:\IUT Result System\bin\Debug\IUT Result System.exe.config
+D:\IUT Result System\bin\Debug\IUT Result System.exe
+D:\IUT Result System\bin\Debug\IUT Result System.pdb
+D:\IUT Result System\obj\Debug\IUT Result System.csproj.AssemblyReference.cache
+D:\IUT Result System\obj\Debug\IUT Result System.csproj.SuggestedBindingRedirects.cache
+D:\IUT Result System\obj\Debug\IUT_Result_System.Form1.resources
+D:\IUT Result System\obj\Debug\IUT_Result_System.Properties.Resources.resources
+D:\IUT Result System\obj\Debug\IUT Result System.csproj.GenerateResource.cache
+D:\IUT Result System\obj\Debug\IUT Result System.csproj.CoreCompileInputs.cache
+D:\IUT Result System\obj\Debug\IUT Result System.exe
+D:\IUT Result System\obj\Debug\IUT Result System.pdb
